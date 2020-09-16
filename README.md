@@ -31,3 +31,4 @@ the `Zerologon_Password_Change` notice will be generated.
 * https://www.secura.com/blog/zero-logon
 * https://www.secura.com/pathtoimg.php?id=2055
 * https://support.microsoft.com/en-us/help/4557222/how-to-manage-the-changes-in-netlogon-secure-channel-connections-assoc
+* https://corelight.blog/2020/09/16/detecting-zerologon-cve-2020-1472-with-zeek/

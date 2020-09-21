@@ -1,0 +1,6 @@
+[package]
+script_dir = scripts
+test_command = cd testing && btest -c btest.cfg
+corelight_name = Zerologon
+summary = Detects Zerologon (CVE-2020-1472) attempts and exploits.
+description = Detects Zerologon (CVE-2020-1472) attempts and exploits.

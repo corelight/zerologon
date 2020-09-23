@@ -1,2 +1,1 @@
-@load ./cluster
 @load ./main
